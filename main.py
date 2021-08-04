@@ -1,0 +1,2 @@
+import checkModule
+checkModule.adultcheck()
